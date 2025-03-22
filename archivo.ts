@@ -1,3 +1,3 @@
-def login{
+function login() {
     console.log("Login");
 }
